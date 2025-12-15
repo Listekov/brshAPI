@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Филадельфия",
     "price": 450,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/philadelphia.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/philadelphia.png",
     "category": "rolls",
     "description": "Лосось, сливочный сыр, огурец."
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Калифорния",
     "price": 390,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/california.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/california.png",
     "category": "rolls",
     "description": "Краб, авокадо, огурец, кунжут."
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "title": "Дракон",
     "price": 520,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/dragon.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/dragon.png",
     "category": "rolls",
     "description": "Угорь, омлет, огурец, авокадо."
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "title": "Чука Маки",
     "price": 250,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/chuka.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/chuka.png",
     "category": "rolls",
     "description": "Салат чука, огурец, кунжут."
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "title": "Темпура Ролл",
     "price": 480,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/tempura.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/tempura.png",
     "category": "rolls",
     "description": "Горячий ролл в темпуре."
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "title": "Ролл с креветкой",
     "price": 430,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/shrimp_roll.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/shrimp_roll.png",
     "category": "rolls",
     "description": "Креветка, огурец, сливочный сыр."
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "title": "Запечённый ролл",
     "price": 500,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/baked_roll.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/baked_roll.png",
     "category": "rolls",
     "description": "Запечённый ролл с угрём и сыром."
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "title": "Гункан с лососем",
     "price": 160,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/gunkan_salmon.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/gunkan_salmon.png",
     "category": "sushi",
     "description": "Рубленный лосось с соусом."
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "title": "Гункан с икрой",
     "price": 180,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/gunkan_ikura.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/gunkan_ikura.png",
     "category": "sushi",
     "description": "Икра лосося."
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "title": "Суши с лососем",
     "price": 120,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/salmon_sushi.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/salmon_sushi.png",
     "category": "sushi",
     "description": "Классическое суши с лососем."
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "title": "Суши с тунцом",
     "price": 130,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/tuna_sushi.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/tuna_sushi.png",
     "category": "sushi",
     "description": "Классическое суши с тунцом."
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "title": "Суши с угрём",
     "price": 160,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/unagi_sushi.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/unagi_sushi.png",
     "category": "sushi",
     "description": "Суши с угрём под соусом унаги."
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "title": "Суши с креветкой",
     "price": 140,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/ebi_sushi.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/ebi_sushi.png",
     "category": "sushi",
     "description": "Традиционные суши с креветкой."
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "title": "Урамаки с угрём",
     "price": 510,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/uramaki_unagi.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/uramaki_unagi.png",
     "category": "rolls",
     "description": "Ролл с угрём, огурцом и кунжутом."
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "title": "Урамаки с тунцом",
     "price": 430,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/uramaki_tuna.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/uramaki_tuna.png",
     "category": "rolls",
     "description": "Тунец, огурец, сыр."
   },
@@ -123,7 +123,7 @@
     "id": 16,
     "title": "Футомаки",
     "price": 490,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/futomaki.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/futomaki.png",
     "category": "rolls",
     "description": "Большой ролл с лососем, огурцом и омлетом."
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "title": "Ролл Веган",
     "price": 300,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/vegan_roll.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/vegan_roll.png",
     "category": "rolls",
     "description": "Авокадо, огурец, тофу."
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "title": "Сяке Маки",
     "price": 240,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/sake_maki.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/sake_maki.png",
     "category": "rolls",
     "description": "Лосось и рис, классический маки."
   },
@@ -147,7 +147,7 @@
     "id": 19,
     "title": "Унаги Маки",
     "price": 290,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/unagi_maki.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/unagi_maki.png",
     "category": "rolls",
     "description": "Угорь, огурец, кунжут."
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "title": "Спайси ролл",
     "price": 445,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/spicy_roll.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/spicy_roll.png",
     "category": "rolls",
     "description": "Острая намазка с лососем."
   },
@@ -166,7 +166,7 @@
     "id": 21,
     "title": "Зелёный чай",
     "price": 120,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/green_tea.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/green_tea.png",
     "category": "drinks",
     "description": "Холодный зелёный чай."
   },
@@ -174,7 +174,7 @@
     "id": 22,
     "title": "Кола",
     "price": 150,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/cola.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/cola.png",
     "category": "drinks",
     "description": "Кока-Кола 0.5 л."
   },
@@ -182,7 +182,7 @@
     "id": 23,
     "title": "Фанта",
     "price": 150,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/fanta.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/fanta.png",
     "category": "drinks",
     "description": "Фанта 0.5 л."
   },
@@ -190,7 +190,7 @@
     "id": 24,
     "title": "Спрайт",
     "price": 150,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/sprite.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/sprite.png",
     "category": "drinks",
     "description": "Спрайт 0.5 л."
   },
@@ -198,7 +198,7 @@
     "id": 25,
     "title": "Айс-латте",
        "price": 200,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/ice_latte.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/ice_latte.png",
     "category": "drinks",
     "description": "Холодный латте со льдом."
   },
@@ -209,7 +209,7 @@
     "id": 26,
     "title": "Моти клубничный",
     "price": 230,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/mochi_strawberry.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/mochi_strawberry.png",
     "category": "desserts",
     "description": "Японский рисовый десерт с клубникой."
   },
@@ -217,7 +217,7 @@
     "id": 27,
     "title": "Моти манговый",
     "price": 230,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/mochi_mango.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/mochi_mango.png",
     "category": "desserts",
     "description": "Моти с манго."
   },
@@ -225,7 +225,7 @@
     "id": 28,
     "title": "Тайяки",
     "price": 260,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/taiyaki.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/taiyaki.png",
     "category": "desserts",
     "description": "Фигурный ванильный вафельный пирожок."
   },
@@ -233,7 +233,7 @@
     "id": 29,
     "title": "Ролл сладкий",
     "price": 300,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/sweet_roll.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/sweet_roll.png",
     "category": "desserts",
     "description": "Сладкий ролл с фруктами и кремом."
   },
@@ -241,7 +241,7 @@
     "id": 30,
     "title": "Сырники японские",
     "price": 350,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/japan_cheesecake.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/japan_cheesecake.png",
     "category": "desserts",
     "description": "Воздушный сырный десерт."
   },
@@ -252,7 +252,7 @@
     "id": 31,
     "title": "Соевый соус",
     "price": 30,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/soy_sauce.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/soy_sauce.png",
     "category": "extra",
     "description": "Порция 30 г."
   },
@@ -260,7 +260,7 @@
     "id": 32,
     "title": "Имбирь маринованный",
     "price": 30,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/ginger.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/ginger.png",
     "category": "extra",
     "description": "Порция 20 г."
   },
@@ -268,7 +268,7 @@
     "id": 33,
     "title": "Васаби",
     "price": 30,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/wasabi.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/wasabi.png",
     "category": "extra",
     "description": "Порция 10 г."
   },
@@ -276,7 +276,7 @@
     "id": 34,
     "title": "Палочки",
     "price": 15,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/chopsticks.png",
+    "image": "https://github.com/Listekov/brshAPI/blob/main/images/chopsticks.png",
     "category": "extra",
     "description": "Одноразовые бамбуковые палочки."
   }
