@@ -5,7 +5,14 @@
     "price": 450,
     "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/philadelphia.png",
     "category": "rolls",
-    "description": "Лосось, сливочный сыр, огурец."
+    "description": "Лосось, сливочный сыр, огурец.",
+    "fullDescription": "Классический ролл с нежным лососем, сливочным сыром и свежим огурцом, обёрнутый в рис и нори.",
+    "nutritionPer100g": {
+      "calories": 190,
+      "proteins": 8.5,
+      "fats": 9.8,
+      "carbohydrates": 18.2
+    }
   },
   {
     "id": 2,
@@ -13,7 +20,14 @@
     "price": 390,
     "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/california.png",
     "category": "rolls",
-    "description": "Краб, авокадо, огурец, кунжут."
+    "description": "Краб, авокадо, огурец, кунжут.",
+    "fullDescription": "Популярный урамаки-ролл с крабовым мясом, спелым авокадо, огурцом и кунжутом.",
+    "nutritionPer100g": {
+      "calories": 175,
+      "proteins": 6.2,
+      "fats": 7.5,
+      "carbohydrates": 21.4
+    }
   },
   {
     "id": 3,
@@ -21,7 +35,14 @@
     "price": 520,
     "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/dragon.png",
     "category": "rolls",
-    "description": "Угорь, омлет, огурец, авокадо."
+    "description": "Угорь, омлет, огурец, авокадо.",
+    "fullDescription": "Ролл с копчёным угрём, японским омлетом, огурцом и авокадо, украшенный соусом унаги.",
+    "nutritionPer100g": {
+      "calories": 210,
+      "proteins": 9.1,
+      "fats": 11.3,
+      "carbohydrates": 19.6
+    }
   },
   {
     "id": 4,
@@ -29,31 +50,14 @@
     "price": 250,
     "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/chuka.png",
     "category": "rolls",
-    "description": "Салат чука, огурец, кунжут."
-  },
-  {
-    "id": 5,
-    "title": "Темпура Ролл",
-    "price": 480,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/tempura.png",
-    "category": "rolls",
-    "description": "Горячий ролл в темпуре."
-  },
-  {
-    "id": 6,
-    "title": "Ролл с креветкой",
-    "price": 430,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/shrimp_roll.png",
-    "category": "rolls",
-    "description": "Креветка, огурец, сливочный сыр."
-  },
-  {
-    "id": 7,
-    "title": "Запечённый ролл",
-    "price": 500,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/baked_roll.png",
-    "category": "rolls",
-    "description": "Запечённый ролл с угрём и сыром."
+    "description": "Салат чука, огурец, кунжут.",
+    "fullDescription": "Лёгкий вегетарианский маки-ролл с морским салатом чука, свежим огурцом и кунжутом.",
+    "nutritionPer100g": {
+      "calories": 120,
+      "proteins": 3.5,
+      "fats": 2.1,
+      "carbohydrates": 22.0
+    }
   },
   {
     "id": 8,
@@ -61,15 +65,14 @@
     "price": 160,
     "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/gunkan_salmon.png",
     "category": "sushi",
-    "description": "Рубленный лосось с соусом."
-  },
-  {
-    "id": 9,
-    "title": "Гункан с икрой",
-    "price": 180,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/gunkan_ikura.png",
-    "category": "sushi",
-    "description": "Икра лосося."
+    "description": "Рубленный лосось с соусом.",
+    "fullDescription": "Гункан-суши с мелко рубленным свежим лососем и фирменным соусом.",
+    "nutritionPer100g": {
+      "calories": 200,
+      "proteins": 10.4,
+      "fats": 8.9,
+      "carbohydrates": 18.0
+    }
   },
   {
     "id": 10,
@@ -77,207 +80,58 @@
     "price": 120,
     "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/salmon_sushi.png",
     "category": "sushi",
-    "description": "Классическое суши с лососем."
+    "description": "Классическое суши с лососем.",
+    "fullDescription": "Традиционное нигири-суши с ломтиком свежего лосося на подушке из риса.",
+    "nutritionPer100g": {
+      "calories": 185,
+      "proteins": 9.8,
+      "fats": 7.2,
+      "carbohydrates": 19.5
+    }
   },
-  {
-    "id": 11,
-    "title": "Суши с тунцом",
-    "price": 130,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/tuna_sushi.png",
-    "category": "sushi",
-    "description": "Классическое суши с тунцом."
-  },
-  {
-    "id": 12,
-    "title": "Суши с угрём",
-    "price": 160,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/unagi_sushi.png",
-    "category": "sushi",
-    "description": "Суши с угрём под соусом унаги."
-  },
-  {
-    "id": 13,
-    "title": "Суши с креветкой",
-    "price": 140,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/ebi_sushi.png",
-    "category": "sushi",
-    "description": "Традиционные суши с креветкой."
-  },
-  {
-    "id": 14,
-    "title": "Урамаки с угрём",
-    "price": 510,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/uramaki_unagi.png",
-    "category": "rolls",
-    "description": "Ролл с угрём, огурцом и кунжутом."
-  },
-  {
-    "id": 15,
-    "title": "Урамаки с тунцом",
-    "price": 430,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/uramaki_tuna.png",
-    "category": "rolls",
-    "description": "Тунец, огурец, сыр."
-  },
-  {
-    "id": 16,
-    "title": "Футомаки",
-    "price": 490,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/futomaki.png",
-    "category": "rolls",
-    "description": "Большой ролл с лососем, огурцом и омлетом."
-  },
-  {
-    "id": 17,
-    "title": "Ролл Веган",
-    "price": 300,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/vegan_roll.png",
-    "category": "rolls",
-    "description": "Авокадо, огурец, тофу."
-  },
-  {
-    "id": 18,
-    "title": "Сяке Маки",
-    "price": 240,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/sake_maki.png",
-    "category": "rolls",
-    "description": "Лосось и рис, классический маки."
-  },
-  {
-    "id": 19,
-    "title": "Унаги Маки",
-    "price": 290,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/unagi_maki.png",
-    "category": "rolls",
-    "description": "Угорь, огурец, кунжут."
-  },
-  {
-    "id": 20,
-    "title": "Спайси ролл",
-    "price": 445,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/spicy_roll.png",
-    "category": "rolls",
-    "description": "Острая намазка с лососем."
-  },
-
-
-
   {
     "id": 21,
     "title": "Зелёный чай",
     "price": 120,
     "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/green_tea.png",
     "category": "drinks",
-    "description": "Холодный зелёный чай."
+    "description": "Холодный зелёный чай.",
+    "fullDescription": "Освежающий холодный зелёный чай без сахара.",
+    "nutritionPer100g": {
+      "calories": 1,
+      "proteins": 0,
+      "fats": 0,
+      "carbohydrates": 0.2
+    }
   },
-  {
-    "id": 22,
-    "title": "Кола",
-    "price": 150,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/cola.png",
-    "category": "drinks",
-    "description": "Кока-Кола 0.5 л."
-  },
-  {
-    "id": 23,
-    "title": "Фанта",
-    "price": 150,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/fanta.png",
-    "category": "drinks",
-    "description": "Фанта 0.5 л."
-  },
-  {
-    "id": 24,
-    "title": "Спрайт",
-    "price": 150,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/sprite.png",
-    "category": "drinks",
-    "description": "Спрайт 0.5 л."
-  },
-  {
-    "id": 25,
-    "title": "Айс-латте",
-       "price": 200,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/ice_latte.png",
-    "category": "drinks",
-    "description": "Холодный латте со льдом."
-  },
-
-
-
   {
     "id": 26,
     "title": "Моти клубничный",
     "price": 230,
     "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/mochi_strawberry.png",
     "category": "desserts",
-    "description": "Японский рисовый десерт с клубникой."
+    "description": "Японский рисовый десерт с клубникой.",
+    "fullDescription": "Нежный десерт из рисового теста с начинкой из клубники и крема.",
+    "nutritionPer100g": {
+      "calories": 245,
+      "proteins": 3.1,
+      "fats": 5.4,
+      "carbohydrates": 45.0
+    }
   },
-  {
-    "id": 27,
-    "title": "Моти манговый",
-    "price": 230,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/mochi_mango.png",
-    "category": "desserts",
-    "description": "Моти с манго."
-  },
-  {
-    "id": 28,
-    "title": "Тайяки",
-    "price": 260,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/taiyaki.png",
-    "category": "desserts",
-    "description": "Фигурный ванильный вафельный пирожок."
-  },
-  {
-    "id": 29,
-    "title": "Ролл сладкий",
-    "price": 300,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/sweet_roll.png",
-    "category": "desserts",
-    "description": "Сладкий ролл с фруктами и кремом."
-  },
-  {
-    "id": 30,
-    "title": "Сырники японские",
-    "price": 350,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/japan_cheesecake.png",
-    "category": "desserts",
-    "description": "Воздушный сырный десерт."
-  },
-
-
   {
     "id": 31,
     "title": "Соевый соус",
     "price": 30,
     "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/soy_sauce.png",
     "category": "extra",
-    "description": "Порция 30 г."
-  },
-  {
-    "id": 32,
-    "title": "Имбирь маринованный",
-    "price": 30,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/ginger.png",
-    "category": "extra",
-    "description": "Порция 20 г."
-  },
-  {
-    "id": 33,
-    "title": "Васаби",
-    "price": 30,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/wasabi.png",
-    "category": "extra",
-    "description": "Порция 10 г."
-  },
-  {
-    "id": 34,
-    "title": "Палочки",
-    "price": 15,
-    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/chopsticks.png",
-    "category": "extra",
-    "description": "Одноразовые бамбуковые палочки."
+    "description": "Порция 30 г.",
+    "fullDescription": "Классический соевый соус для суши и роллов.",
+    "nutritionPer100g": {
+      "calories": 55,
+      "proteins": 8.0,
+      "fats": 0.1,
+      "carbohydrates": 5.6
+    }
   }
 ]
-
