@@ -60,6 +60,51 @@
     }
   },
   {
+    "id": 5,
+    "title": "Темпура Ролл",
+    "price": 480,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/tempura.png",
+    "category": "rolls",
+    "description": "Горячий ролл в темпуре.",
+    "fullDescription": "Ролл, обжаренный в темпуре, с хрустящей корочкой, который подается горячим.",
+    "nutritionPer100g": {
+      "calories": 210,
+      "proteins": 8.2,
+      "fats": 11.0,
+      "carbohydrates": 18.4
+    }
+  },
+  {
+    "id": 6,
+    "title": "Ролл с креветкой",
+    "price": 430,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/shrimp_roll.png",
+    "category": "rolls",
+    "description": "Креветка, огурец, сливочный сыр.",
+    "fullDescription": "Ролл с нежной креветкой, свежим огурцом и сливочным сыром, обёрнутый в рис и нори.",
+    "nutritionPer100g": {
+      "calories": 210,
+      "proteins": 10.0,
+      "fats": 9.5,
+      "carbohydrates": 17.6
+    }
+  },
+  {
+    "id": 7,
+    "title": "Запечённый ролл",
+    "price": 500,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/baked_roll.png",
+    "category": "rolls",
+    "description": "Запечённый ролл с угрём и сыром.",
+    "fullDescription": "Теплый ролл с угрём и расплавленным сыром, запечённый до золотистой корочки.",
+    "nutritionPer100g": {
+      "calories": 220,
+      "proteins": 10.1,
+      "fats": 12.8,
+      "carbohydrates": 19.4
+    }
+  },
+  {
     "id": 8,
     "title": "Гункан с лососем",
     "price": 160,
@@ -72,6 +117,21 @@
       "proteins": 10.4,
       "fats": 8.9,
       "carbohydrates": 18.0
+    }
+  },
+  {
+    "id": 9,
+    "title": "Гункан с икрой",
+    "price": 180,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/gunkan_ikura.png",
+    "category": "sushi",
+    "description": "Икра лосося.",
+    "fullDescription": "Гункан-суши с икрой лосося, придающей особый вкус и текстуру.",
+    "nutritionPer100g": {
+      "calories": 230,
+      "proteins": 13.2,
+      "fats": 10.5,
+      "carbohydrates": 14.8
     }
   },
   {
@@ -90,6 +150,156 @@
     }
   },
   {
+    "id": 11,
+    "title": "Суши с тунцом",
+    "price": 130,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/tuna_sushi.png",
+    "category": "sushi",
+    "description": "Классическое суши с тунцом.",
+    "fullDescription": "Суши с нежным тунцом на рисе, обёрнутые в водоросли.",
+    "nutritionPer100g": {
+      "calories": 175,
+      "proteins": 10.2,
+      "fats": 6.9,
+      "carbohydrates": 18.5
+    }
+  },
+  {
+    "id": 12,
+    "title": "Суши с угрём",
+    "price": 160,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/unagi_sushi.png",
+    "category": "sushi",
+    "description": "Суши с угрём под соусом унаги.",
+    "fullDescription": "Традиционные суши с копчёным угрём, приправленные соусом унаги.",
+    "nutritionPer100g": {
+      "calories": 220,
+      "proteins": 12.0,
+      "fats": 10.8,
+      "carbohydrates": 18.7
+    }
+  },
+  {
+    "id": 13,
+    "title": "Суши с креветкой",
+    "price": 140,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/ebi_sushi.png",
+    "category": "sushi",
+    "description": "Традиционные суши с креветкой.",
+    "fullDescription": "Традиционные суши с варёной креветкой на рисе, обёрнутые в нори.",
+    "nutritionPer100g": {
+      "calories": 180,
+      "proteins": 11.0,
+      "fats": 5.3,
+      "carbohydrates": 19.2
+    }
+  },
+  {
+    "id": 14,
+    "title": "Урамаки с угрём",
+    "price": 510,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/uramaki_unagi.png",
+    "category": "rolls",
+    "description": "Ролл с угрём, огурцом и кунжутом.",
+    "fullDescription": "Урамаки-ролл с копчёным угрём, свежим огурцом и кунжутом.",
+    "nutritionPer100g": {
+      "calories": 210,
+      "proteins": 9.5,
+      "fats": 12.2,
+      "carbohydrates": 18.5
+    }
+  },
+  {
+    "id": 15,
+    "title": "Урамаки с тунцом",
+    "price": 430,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/uramaki_tuna.png",
+    "category": "rolls",
+    "description": "Тунец, огурец, сыр.",
+    "fullDescription": "Урамаки-ролл с тунцом, свежим огурцом и сливочным сыром.",
+    "nutritionPer100g": {
+      "calories": 180,
+      "proteins": 10.0,
+      "fats": 8.5,
+      "carbohydrates": 17.8
+    }
+  },
+  {
+    "id": 16,
+    "title": "Футомаки",
+    "price": 490,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/futomaki.png",
+    "category": "rolls",
+    "description": "Большой ролл с лососем, огурцом и омлетом.",
+    "fullDescription": "Большой и сытный ролл с ломтями лосося, свежим огурцом и японским омлетом.",
+    "nutritionPer100g": {
+      "calories": 230,
+      "proteins": 11.2,
+      "fats": 12.0,
+      "carbohydrates": 20.1
+    }
+  },
+  {
+    "id": 17,
+    "title": "Ролл Веган",
+    "price": 300,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/vegan_roll.png",
+    "category": "rolls",
+    "description": "Авокадо, огурец, тофу.",
+    "fullDescription": "Вегетарианский ролл с авокадо, свежим огурцом и тофу.",
+    "nutritionPer100g": {
+      "calories": 130,
+      "proteins": 4.5,
+      "fats": 6.2,
+      "carbohydrates": 17.0
+    }
+  },
+  {
+    "id": 18,
+    "title": "Сяке Маки",
+    "price": 240,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/sake_maki.png",
+    "category": "rolls",
+    "description": "Лосось и рис, классический маки.",
+    "fullDescription": "Классический маки-ролл с лососем и рисом.",
+    "nutritionPer100g": {
+      "calories": 180,
+      "proteins": 9.0,
+      "fats": 7.5,
+      "carbohydrates": 19.0
+    }
+  },
+  {
+    "id": 19,
+    "title": "Унаги Маки",
+    "price": 290,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/unagi_maki.png",
+    "category": "rolls",
+    "description": "Угорь, огурец, кунжут.",
+    "fullDescription": "Ролл с угрём, огурцом и кунжутом, в водорослях.",
+    "nutritionPer100g": {
+      "calories": 210,
+      "proteins": 10.5,
+      "fats": 11.5,
+      "carbohydrates": 17.0
+    }
+  },
+  {
+    "id": 20,
+    "title": "Спайси ролл",
+    "price": 445,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/spicy_roll.png",
+    "category": "rolls",
+    "description": "Острая намазка с лососем.",
+    "fullDescription": "Острая намазка с лососем и рисом, обёрнутым в водоросли.",
+    "nutritionPer100g": {
+      "calories": 220,
+      "proteins": 10.8,
+      "fats": 12.0,
+      "carbohydrates": 19.3
+    }
+  },
+  {
     "id": 21,
     "title": "Зелёный чай",
     "price": 120,
@@ -105,6 +315,66 @@
     }
   },
   {
+    "id": 22,
+    "title": "Кола",
+    "price": 150,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/cola.png",
+    "category": "drinks",
+    "description": "Кока-Кола 0.5 л.",
+    "fullDescription": "Освежающий напиток Кока-Кола, объём 0.5 литра.",
+    "nutritionPer100g": {
+      "calories": 42,
+      "proteins": 0,
+      "fats": 0,
+      "carbohydrates": 10.6
+    }
+  },
+  {
+    "id": 23,
+    "title": "Фанта",
+    "price": 150,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/fanta.png",
+    "category": "drinks",
+    "description": "Фанта 0.5 л.",
+    "fullDescription": "Освежающий напиток Фанта, объём 0.5 литра.",
+    "nutritionPer100g": {
+      "calories": 48,
+      "proteins": 0,
+      "fats": 0,
+      "carbohydrates": 11.9
+    }
+  },
+  {
+    "id": 24,
+    "title": "Спрайт",
+    "price": 150,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/sprite.png",
+    "category": "drinks",
+    "description": "Спрайт 0.5 л.",
+    "fullDescription": "Освежающий напиток Спрайт, объём 0.5 литра.",
+    "nutritionPer100g": {
+      "calories": 38,
+      "proteins": 0,
+      "fats": 0,
+      "carbohydrates": 9.5
+    }
+  },
+  {
+    "id": 25,
+    "title": "Айс-латте",
+    "price": 200,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/ice_latte.png",
+    "category": "drinks",
+    "description": "Холодный латте со льдом.",
+    "fullDescription": "Освежающий кофе с молоком и льдом, идеально для жарких дней.",
+    "nutritionPer100g": {
+      "calories": 50,
+      "proteins": 2.5,
+      "fats": 2.0,
+      "carbohydrates": 6.5
+    }
+  },
+  {
     "id": 26,
     "title": "Моти клубничный",
     "price": 230,
@@ -116,7 +386,67 @@
       "calories": 245,
       "proteins": 3.1,
       "fats": 5.4,
+      "carbohydrates": 45.2
+    }
+  },
+  {
+    "id": 27,
+    "title": "Моти манговый",
+    "price": 230,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/mochi_mango.png",
+    "category": "desserts",
+    "description": "Моти с манго.",
+    "fullDescription": "Моти с вкусной начинкой из манго.",
+    "nutritionPer100g": {
+      "calories": 240,
+      "proteins": 3.5,
+      "fats": 5.0,
+      "carbohydrates": 46.0
+    }
+  },
+  {
+    "id": 28,
+    "title": "Тайяки",
+    "price": 260,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/taiyaki.png",
+    "category": "desserts",
+    "description": "Фигурный ванильный вафельный пирожок.",
+    "fullDescription": "Японский десерт в виде рыбки с начинкой из сладкого крема.",
+    "nutritionPer100g": {
+      "calories": 300,
+      "proteins": 4.0,
+      "fats": 12.0,
       "carbohydrates": 45.0
+    }
+  },
+  {
+    "id": 29,
+    "title": "Ролл сладкий",
+    "price": 300,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/sweet_roll.png",
+    "category": "desserts",
+    "description": "Сладкий ролл с фруктами и кремом.",
+    "fullDescription": "Сладкий ролл с фруктами и нежным кремом, обёрнутый в рис и нори.",
+    "nutritionPer100g": {
+      "calories": 260,
+      "proteins": 3.2,
+      "fats": 7.3,
+      "carbohydrates": 45.8
+    }
+  },
+  {
+    "id": 30,
+    "title": "Сырники японские",
+    "price": 350,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/japan_cheesecake.png",
+    "category": "desserts",
+    "description": "Воздушный сырный десерт.",
+    "fullDescription": "Легкие сырники с кремом, приготовленные по японскому рецепту.",
+    "nutritionPer100g": {
+      "calories": 290,
+      "proteins": 8.2,
+      "fats": 18.4,
+      "carbohydrates": 26.3
     }
   },
   {
@@ -126,12 +456,57 @@
     "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/soy_sauce.png",
     "category": "extra",
     "description": "Порция 30 г.",
-    "fullDescription": "Классический соевый соус для суши и роллов.",
+    "fullDescription": "Порция соевого соуса для подачи к роллам и суши.",
     "nutritionPer100g": {
-      "calories": 55,
-      "proteins": 8.0,
-      "fats": 0.1,
-      "carbohydrates": 5.6
+      "calories": 10,
+      "proteins": 1.0,
+      "fats": 0,
+      "carbohydrates": 2.3
+    }
+  },
+  {
+    "id": 32,
+    "title": "Имбирь маринованный",
+    "price": 30,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/ginger.png",
+    "category": "extra",
+    "description": "Порция 20 г.",
+    "fullDescription": "Маринованный имбирь, традиционное дополнение к суши.",
+    "nutritionPer100g": {
+      "calories": 40,
+      "proteins": 0.5,
+      "fats": 0,
+      "carbohydrates": 9.3
+    }
+  },
+  {
+    "id": 33,
+    "title": "Васаби",
+    "price": 30,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/wasabi.png",
+    "category": "extra",
+    "description": "Порция 10 г.",
+    "fullDescription": "Острый васаби, подающийся к суши для острого вкуса.",
+    "nutritionPer100g": {
+      "calories": 100,
+      "proteins": 5.0,
+      "fats": 2.5,
+      "carbohydrates": 15.5
+    }
+  },
+  {
+    "id": 34,
+    "title": "Палочки",
+    "price": 15,
+    "image": "https://raw.githubusercontent.com/Listekov/brshAPI/main/images/chopsticks.png",
+    "category": "extra",
+    "description": "Одноразовые бамбуковые палочки.",
+    "fullDescription": "Одноразовые палочки для еды из бамбука.",
+    "nutritionPer100g": {
+      "calories": 0,
+      "proteins": 0,
+      "fats": 0,
+      "carbohydrates": 0
     }
   }
 ]
